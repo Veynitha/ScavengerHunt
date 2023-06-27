@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "scavengerhunt",
+  "version": "1.0.0",
+  "description": "scavenger hunt in melbourne",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veynitha/ScavengerHunt.git"
+  },
+  "author": "Veynitha Abeykoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veynitha/ScavengerHunt/issues"
+  },
+  "homepage": "https://github.com/Veynitha/ScavengerHunt#readme"
+}
